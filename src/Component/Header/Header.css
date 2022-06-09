@@ -1,0 +1,10 @@
+#navbar{
+    background-color: rgb(47, 57, 53);
+    width: 100%;
+}
+#text-clr{
+    color: rgb(167, 165, 165);
+}
+#text-clr:hover{
+    color: white;
+}

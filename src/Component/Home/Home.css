@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+.Home{
+    background: url('../../Assets/main-image.jpg');
+    text-align: center;
+    height: 542px;
+    background-position:center;
+    background-size:cover;
+    color: #ef372e;
+}
+#welcome{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    margin-top: 200px;
+}
+
