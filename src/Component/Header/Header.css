@@ -1,5 +1,5 @@
 #navbar{
-    background-color: rgb(47, 57, 53);
+    background-color: rgb(34, 34, 34);
     width: 100%;
 }
 #text-clr{
@@ -7,4 +7,13 @@
 }
 #text-clr:hover{
     color: white;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #ef372e,
+    0 0 82px #ef372e,
+    0 0 92px #ef372e,
+    0 0 102px #ef372e,
+    0 0 151px #ef372e;
 }
